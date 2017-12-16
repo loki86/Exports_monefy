@@ -1,0 +1,14 @@
+{
+  "name": "exportsmonefy",
+  "version": "0.0.1",
+  "description": "exports data from monefy to excel",
+  "main": "export.js",
+  "devDependencies": {
+    "fs": "^0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levin",
+  "license": "ISC"
+}
